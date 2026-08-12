@@ -1,1 +1,5 @@
-hey i am pratik__bugade
+<<<<<<< HEAD
+hey i am shreyash gitaje
+=======
+hii i am Anuja
+>>>>>>> dev
