@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Hii I am Ritesh Shivaji Shinde
-=======
 hii i am vedika
->>>>>>> dev
+
